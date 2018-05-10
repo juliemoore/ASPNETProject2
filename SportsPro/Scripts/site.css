@@ -1,0 +1,30 @@
+﻿.jumbotron h1 {
+    font-size: 250%;
+}
+.jumbotron h2 {
+    font-size: 150%;
+}
+.options label {
+    font-weight: normal;
+    font-size: 100%;
+    padding-left: 5px;
+    padding-right: 0px;
+}
+.radioButtonList input[type="radio"] {
+   width: auto;      
+   float: left;
+   padding-right: 5px;  
+}
+
+.radioButtonList label {      
+   width: auto;      
+   display: inline;      
+   float: left;      
+   font-size: 100%;
+   padding-right: 10px;
+}
+.message label {
+    font-weight: normal;
+    font-size: 100%;
+    padding-bottom: 20px;
+}

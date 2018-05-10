@@ -1,0 +1,67 @@
+﻿.list-btn {
+    margin-bottom: 1em;
+    width: 100%;
+}
+
+.submit-btn {
+    margin-bottom: 2em;
+    width: 100%;
+}
+.h1-welcome {
+    margin: 1em;
+}
+
+.h3-header {
+    margin: 1em;
+}
+
+.jumbotron h1 {
+    font-size: 250%;
+}
+.jumbotron h2 {
+    font-size: 150%;
+}
+.options label {
+    font-weight: normal;
+    font-size: 100%;
+    padding-left: 5px;
+    padding-right: 10px;
+    margin-bottom: 0px;
+}
+.radioButtonList input[type="radio"] {
+   width: auto;      
+   float: left;
+   padding-right: 5px;  
+}
+
+.radioButtonList label {      
+   width: auto;      
+   display: inline;      
+   float: left;      
+   font-size: 100%;
+   padding-right: 10px;
+}
+
+.message label {
+    font-weight: normal;
+    font-size: 100%;
+    padding-bottom: 20px;
+    padding-left: 1em;
+}
+
+.form-label {
+    font-weight: normal;
+    font-size: 110%;
+}
+
+.form-label label {
+    font-weight: normal;
+    font-size: 110%;
+    padding-left: 1.5em;
+    padding-bottom: .5em;
+}
+
+.form-label-select {
+    font-weight: bold;
+    font-size: 125%;
+}

@@ -1,0 +1,237 @@
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\obj\Debug\SportsPro.csprojResolveAssemblyReference.cache
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\ApplicationInsights.config
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\csc.exe
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\System.Collections.Immutable.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\vbc.exe
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe.config
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\SportsPro.dll.config
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\SportsPro.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\SportsPro.pdb
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Antlr3.Runtime.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\AspNet.ScriptManager.bootstrap.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\AspNet.ScriptManager.jQuery.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\EntityFramework.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\EntityFramework.SqlServer.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.Agent.Intercept.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.DependencyCollector.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.Web.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.WindowsServer.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.ApplicationInsights.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Core.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Cookies.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Facebook.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Google.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.OAuth.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Twitter.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.ScriptManager.WebForms.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Web.Infrastructure.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Newtonsoft.Json.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Owin.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\System.Web.Optimization.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\System.Web.Providers.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\WebGrease.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.DependencyCollector.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.Web.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.WindowsServer.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.ApplicationInsights.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\System.Web.Optimization.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Antlr3.Runtime.pdb
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Newtonsoft.Json.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\EntityFramework.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\EntityFramework.SqlServer.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Core.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\System.Web.Providers.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Facebook.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Cookies.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Google.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Twitter.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.OAuth.xml
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\obj\Debug\SportsPro.dll
+F:\CCC\INFO 2590\Project 2\SportsPro\SportsPro\obj\Debug\SportsPro.pdb
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\ApplicationInsights.config
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\csc.exe
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\vbc.exe
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\SportsPro.dll.config
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\SportsPro.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\SportsPro.pdb
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Antlr3.Runtime.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\EntityFramework.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\EntityFramework.SqlServer.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.Web.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Newtonsoft.Json.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Owin.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\System.Web.Optimization.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\System.Web.Providers.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\WebGrease.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.Web.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\System.Web.Optimization.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Antlr3.Runtime.pdb
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Newtonsoft.Json.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\EntityFramework.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\EntityFramework.SqlServer.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\System.Web.Providers.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\obj\Debug\SportsPro.csprojResolveAssemblyReference.cache
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\obj\Debug\SportsPro.dll
+C:\Users\Julie Ann Moore\Downloads\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\obj\Debug\SportsPro.pdb
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\ApplicationInsights.config
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\csc.exe
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\System.Collections.Immutable.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\vbc.exe
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe.config
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\SportsPro.dll.config
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\SportsPro.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\SportsPro.pdb
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Antlr3.Runtime.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\AspNet.ScriptManager.bootstrap.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\AspNet.ScriptManager.jQuery.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\EntityFramework.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\EntityFramework.SqlServer.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.Agent.Intercept.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.DependencyCollector.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.Web.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.WindowsServer.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.ApplicationInsights.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Core.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Cookies.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Facebook.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Google.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.OAuth.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Twitter.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.ScriptManager.WebForms.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Web.Infrastructure.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Newtonsoft.Json.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Owin.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\System.Web.Optimization.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\System.Web.Providers.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\WebGrease.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.DependencyCollector.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.Web.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AI.WindowsServer.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.ApplicationInsights.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\System.Web.Optimization.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Antlr3.Runtime.pdb
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Newtonsoft.Json.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\EntityFramework.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\EntityFramework.SqlServer.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Core.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\System.Web.Providers.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Facebook.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Cookies.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Google.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.Twitter.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\bin\Microsoft.Owin.Security.OAuth.xml
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\obj\Debug\SportsPro.csprojResolveAssemblyReference.cache
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\obj\Debug\SportsPro.dll
+F:\CCC\INFO 2590\Julie Moore_Project 2\Project 2\SportsPro\SportsPro\obj\Debug\SportsPro.pdb

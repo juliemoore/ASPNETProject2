@@ -1,0 +1,116 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SportsPro.Site" %>
+
+<!DOCTYPE html>
+
+<!  	Name:		Julie Moore
+     	Course:		INFO 2590
+      	Date:		April 20, 2018
+      	Project:	Final Project 2
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>SportsPro</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/custom.css" rel="stylesheet" />
+    <script src="/Scripts/jquery-1.9.1.min.js"></script>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <asp:ContentPlaceHolder ID="headPlaceHolder" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" class="form-horizontal">
+    <div class="container">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <!-- Brand and toggle menu button -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" 
+                        data-toggle="collapse" data-target="#mainMenu" 
+                        aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/Default">SportsPro</a>
+                </div>
+                <!-- nav content for toggling -->
+                <div class="collapse navbar-collapse" id="mainMenu">
+                    <ul class="nav navbar-nav">
+                        <!-- nav content for Customer Support -->
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" 
+                                role="button" aria-haspopup="true" aria-expanded="false">
+                                Customer Support<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><asp:HyperLink NavigateUrl="~/CustomerSupport/ProductRegistration" 
+                                        runat="server">Register products</asp:HyperLink></li>
+                                <li><asp:HyperLink NavigateUrl="~/CustomerSupport/CustomerSurvey" 
+                                        runat="server">Complete customer survey</asp:HyperLink></li>
+                            </ul>
+                        </li>
+                        <!-- nav content for Technician Support -->
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" 
+                                role="button" aria-haspopup="true" aria-expanded="false">
+                                Technician Support<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><asp:HyperLink NavigateUrl="~/TechSupport/CustomerIncidentDisplay" 
+                                        runat="server">Display customer incidents</asp:HyperLink></li>
+                                <li><asp:HyperLink NavigateUrl="~/TechSupport/IncidentUpdate" 
+                                        runat="server">Update incidents</asp:HyperLink></li>
+                            </ul>
+                        </li>
+                        <!-- nav content for Administration -->
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" 
+                                role="button" aria-haspopup="true" aria-expanded="false">
+                                Administration<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><asp:HyperLink NavigateUrl="~/Administration/ProductMaintenance" 
+                                        runat="server">Maintain products</asp:HyperLink></li>
+                                <li><asp:HyperLink NavigateUrl="~/Administration/CustomerMaintenance" 
+                                        runat="server">Maintain customers</asp:HyperLink></li>
+                                <li><asp:HyperLink NavigateUrl="~/Administration/TechnicianMaintenance" 
+                                        runat="server">Maintain technicians</asp:HyperLink></li>
+                                <li><asp:HyperLink NavigateUrl="~/Administration/IncidentDisplay" 
+                                        runat="server">Display incidents</asp:HyperLink></li>
+                                <li><asp:HyperLink NavigateUrl="~/Administration/CustomerDisplay" 
+                                        runat="server">Display customers</asp:HyperLink></li>
+                                <li><asp:HyperLink NavigateUrl="~/Administration/TechnicianMaintenance" 
+                                        runat="server">Display incidents by technician</asp:HyperLink></li>
+                            </ul>
+                        </li>
+                        <li><asp:HyperLink NavigateUrl="~/ContactUs" runat="server">
+                                Contact Us</asp:HyperLink></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <header class="jumbotron">
+            <h1>SportsPro</h1>
+            <h2>Sports management software for the sports enthusiast</h2>
+        </header>
+        <main>
+            <asp:ContentPlaceHolder ID="mainPlaceHolder" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        </main>
+        
+        <footer>
+            <div class="col-sm-12" >
+               <div class="panel panel-default">
+                  <div class="panel-heading"><span>To contact us, call 800-555-0400 or email us at </span>
+                        <asp:HyperLink ID="HyperLink1" runat="server"
+                            NavigateURL="sportspro@sportsproosoftware.com">sportspro@sportsproosoftware.com</asp:HyperLink></div>
+                </div>
+            </div>
+            <asp:ContentPlaceHolder ID="footerPlaceHolder" runat="server">            
+            </asp:ContentPlaceHolder>
+        </footer>
+    </div>
+    </form>
+</body>
+</html>
